@@ -17,11 +17,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RRocha21&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=G2-Rocha&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RRocha21&theme=tokyonight" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G2-Rocha&theme=tokyonight" alt="GitHub streak stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RRocha21&theme=tokyonight&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=G2-Rocha&theme=tokyonight&layout=compact" alt="Top languages" />
 </p>
 
 _Eager to collaborate, learn, and build awesome things together!_
